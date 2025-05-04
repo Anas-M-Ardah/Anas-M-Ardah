@@ -37,8 +37,8 @@ I'm a passionate Full-Stack developer specializing in **Node.js**, **React**, an
 ## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anas-alardah)
-- 🌐 [Personal Website](#) <!-- Add your website link here if you have one -->
-- 📧 anas.m.ardah@example.com <!-- Replace with your email if you want it public -->
+- 🌐 [Personal Website](https://anas-m-ardah.netlify.app/) 
+- 📧 anas.m.ardah@example.com
 
 ---
 
